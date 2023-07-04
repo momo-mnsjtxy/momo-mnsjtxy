@@ -19,7 +19,7 @@
 
 Hi, glad to meet you~
 
-Here is Kevin Williams, a student from Guangdong, China.
+Here is Kevin Williams, a student from Milastar, Mini Universe.
 
 My website：
 
