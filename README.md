@@ -26,4 +26,4 @@ Contact Me：
 
 
 
-[![Mail](https://img.shields.io/badge/-kevin8w@duck.com-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:mnsjtxy@outlook.com)
+[![Mail](https://img.shields.io/badge/-mnsjtxy@outlook.com-911318?logo=outlook.com&logoColor=white&style=for-the-badge)](mailto:mnsjtxy@outlook.com)
