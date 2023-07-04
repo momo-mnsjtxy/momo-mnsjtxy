@@ -19,23 +19,11 @@
 
 Hi, glad to meet you~
 
-Here is Kevin Williams, a student from Milastar, Mini Universe.
+Here is momo-mnsjtxy, My home is in the Milastar, Mini Universe.
 
-My website：
-
-
-[Blog](https://blog.utermux.dev?utm_source=github)
-
-[Homepage](https://www.utermux.dev)
-
-[My Music List](https://alist.utermux.dev/aliyun/music/lx_list.xlsx)
 
 Contact Me：
 
-[![Telegram](https://img.shields.io/badge/Telegram-@utermux_blog-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/utermux_blog)
 
-[![Mail](https://img.shields.io/badge/-kevin8w@duck.com-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:kevin8w@duck.com)
 
-# Sponsor me ♥
-
-https://donate.utermux.dev
+[![Mail](https://img.shields.io/badge/-kevin8w@duck.com-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:mnsjtxy@outlook.com)
